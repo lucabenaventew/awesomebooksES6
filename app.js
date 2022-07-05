@@ -2,7 +2,7 @@
 
 import { DateTime } from './modules/Luxon-module.js';
 import contactPage from './modules/Contact-module.js';
-import addBookForm from './modules/AddBooks-module.js';
+import addBookForms from './modules/AddBooks-module.js';
 
 contactPage();
 addBookForm();
